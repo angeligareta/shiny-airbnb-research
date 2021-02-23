@@ -1,10 +1,10 @@
-<h1 align="center">Shiny Airbnb</h1>
+<h1 align="center">Shiny Airbnb Research</h1>
 <h4 align="center">Visualization assignments using <a href="https://shiny.rstudio.com/">Shiny</a> at the course of Big Data on the EIT Digital data science master at <a href="https://www.upm.es/">UPM</a> </h4>
 
 <p align="center">
   <img alt="UPM" src="https://img.shields.io/badge/EIT%20Digital-UPM-blue?style=flat-square">
-  <img alt="License" src="https://img.shields.io/github/license/angeligareta/shiny-rstudio-overview?style=flat-square" />
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/angeligareta/shiny-rstudio-overview?style=flat-square">
+  <img alt="License" src="https://img.shields.io/github/license/angeligareta/shiny-airbnb-research?style=flat-square" />
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/angeligareta/shiny-airbnb-research?style=flat-square">
 </p>
 
 ## Problem statement
