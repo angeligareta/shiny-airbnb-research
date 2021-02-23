@@ -43,7 +43,7 @@ The project was developed using R programming language, [Shiny](https://shiny.rs
 
 ### Discussion
 
-The full report can be found at [project/report.pdf] and it contains the visual approach taken to tackle the research questions, along with a guided use of the application. The interface is publicly available on the website [https://angeligareta.shinyapps.io/shinyairbnb/](https://angeligareta.shinyapps.io/shinyairbnb/) (it can take a moment to load as it is hosted in shinyapps).
+The full report can be found at [project/report.pdf](project/report.pdf) and it contains the visual approach taken to tackle the research questions, along with a guided use of the application. The interface is publicly available on the website [https://angeligareta.shinyapps.io/shinyairbnb/](https://angeligareta.shinyapps.io/shinyairbnb/) (it can take a moment to load as it is hosted in shinyapps).
 
 ## Authors
 
